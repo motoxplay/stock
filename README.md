@@ -11,3 +11,4 @@
 |XT1562 | 5.1.1 |LPD23.118-12|Asia ?| ? |[Download](https://github.com/motoxplay/stock/releases/download/v5.1.1/XT1562_LUX_RETASIA_DS_5.1.1_LPD23.118-12_CFC.xml.zip)||
 |||||||
 |XT1563 | 5.1.1 |LPD23.118-32|Latin America| 2 | [Download](https://github.com/motoxplay/stock/releases/download/v5.1.1/XT1563_LUX_RETLA_DS_5.1.1_LPD23.118-32_CFC_v2.xml.zip)||
+|XT1563 | 5.1.1 | LPD23.118-6.1|Latin America|1|[Download](https://github.com/motoxplay/stock/releases/download/v5.1.1/XT1563_LUX_RETLA_5.1.1_LPD23.118-6.1_CFC.xml.zip)||
