@@ -15,5 +15,5 @@
 |XT1563 | 5.1.1 |LPD23.118-10 |Canada         | ? |        |[Download](https://github.com/motoxplay/stock/releases/download/v5.1.1/XT1563_LUX_RETCA_5.1.1_LPD23.118-10_CFC.xml.zip)||
 |XT1563 | 5.1.1 |LPD23.118-32 |Latin America  | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v5.1.1/XT1563_LUX_RETLA_DS_5.1.1_LPD23.118-32_CFC_v2.xml.zip)||
 |XT1563 | 5.1.1 |LPD23.118-6.1|Latin America  | 1 |        |[Download](https://github.com/motoxplay/stock/releases/download/v5.1.1/XT1563_LUX_RETLA_5.1.1_LPD23.118-6.1_CFC.xml.zip)||
-|XT1563 | 5.1.1 |LPD23.118-6.3|Latin America ?| 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v5.1.1/XT1563_LUX_RETAIL_DS_5.1.1_LPD23.118-6.3_CFC.xml.zip)||
 |XT1563 | 5.1.1 |LPD23.118-6.2|México         | 1 |Iusacell|[Download](https://github.com/motoxplay/stock/releases/download/v5.1.1/XT1563_LUX_RETLA-IUSMX_5.1.1_LPD23.118-6.2_CFC.xml.zip)||
+|XT1563 | 5.1.1 |LPD23.118-6.3|Latin America ?| 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v5.1.1/XT1563_LUX_RETAIL_DS_5.1.1_LPD23.118-6.3_CFC.xml.zip)||
