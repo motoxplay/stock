@@ -26,12 +26,13 @@
 |XT1563 | 5.1.1 |LPD23.118-32 |Latin America  | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v5.1.1/XT1563_LUX_RETLA_DS_5.1.1_LPD23.118-32_CFC_v2.xml.zip)||
 |XT1563 | 5.1.1 |LPD23.118-6.1|Latin America  | 1 |        |[Download](https://github.com/motoxplay/stock/releases/download/v5.1.1/XT1563_LUX_RETLA_5.1.1_LPD23.118-6.1_CFC.xml.zip)||
 |XT1563 | 5.1.1 |LPD23.118-6.2|México         | 1 |Iusacell|[Download](https://github.com/motoxplay/stock/releases/download/v5.1.1/XT1563_LUX_RETLA-IUSMX_5.1.1_LPD23.118-6.2_CFC.xml.zip)||
-|XT1563 | 5.1.1 |LPD23.118-6.3|Latin America ?| 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v5.1.1/XT1563_LUX_RETAIL_DS_5.1.1_LPD23.118-6.3_CFC.xml.zip)||
+|XT1563 | 5.1.1 |LPD23.118-6.3|RETAIL?        | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v5.1.1/XT1563_LUX_RETAIL_DS_5.1.1_LPD23.118-6.3_CFC.xml.zip)||
 |||||||||
 |XT1563 | 6.0   |MPD24.65-18  |Latin America  | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.0/XT1563_LUX_RETLA_DS_6.0_MPD24.65-18_CFC_V2.xml.zip)||
 |XT1563 | 6.0   |MPD24.65-18.1|Latin America  | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.0/XT1563_LUX_RETLA_DS_6.0_MPD24.65-18.1_CFC.xml.zip)||
 |||||||||
 |XT1563 | 6.0.1 |MPD24.107-52 |Latin America  | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETLA_DS_6.0.1_MPD24.107-52.xml.zip)||
+|XT1563 | 6.0.1 |MPD24.107-52 |RETAIL?        | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETAIL_DS_6.0.1_MPD24.107-52.xml.zip)||
 
 # Stock OTA updates for the Moto X Play
 |Device |Old Version| Old Build number | New Version | New Build number |Region/Type|GitHub|
