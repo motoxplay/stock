@@ -40,5 +40,8 @@
 |XT1562 | 5.1.1     |LPD23.118-10      | 6.0         | MPD24.65-18      |RETASIA    |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.0/file_delta-ota-Blur_Version.23.21.10-24.11.18.lux_retasia_ds.retasiaall.en.03.zip)|
 |XT1562 | 5.1.1     |LPD23.118-10      | 6.0         | MPD24.65-18      |RETEU      |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.0/file_delta-ota-Blur_Version.23.21.10-24.11.18.lux_reteu.reteu.en.EU.zip)|
 |XT1562 | 5.1.1     |LPD23.118-10      | 6.0         | MPD24.65-33      |RETEU      |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.0/file_delta-ota-Blur_Version.23.21.10-24.41.33.lux_reteu.reteu.en.EU.zip)|
+||||||||
+|XT1562 | 6.0       |MPD24.65-18       | 6.0.1       | MPD24.107-52     |RETASIA    |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/file_delta-ota-Blur_Version.24.11.18-24.61.52.lux_retasia_ds.retasiaall.en.03.zip)|
+
 #TWRP for the Moto X Play
 Download from the [android_device_motorola_lux releases](https://github.com/motoxplay/android_device_motorola_lux/releases)
