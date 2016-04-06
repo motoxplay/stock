@@ -18,6 +18,7 @@
 |XT1562 | 6.0   |MPD24.65-33  |Europe         | 1 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.0/XT1562_LUX_RETEU_6.0_MPD24.65-33_CFC.xml.zip)||
 |||||||||
 |XT1562 | 6.0.1 |MPD24.107-52 |Asia           | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1562_LUX_RETASIA_DS_6.0.1_MPD24.107-52.xml.zip)||
+|XT1562 | 6.0.1 |MPD24.107-52 |Europe         | 1 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1562_LUX_RETEU_6.0.1_MPD24.107-52.xml.zip)||
 
 ##XT1563
 |Device |Version|Build number |Region         |SIM|Carrier |GitHub|Torrent|
@@ -31,6 +32,7 @@
 |XT1563 | 6.0   |MPD24.65-18  |Latin America  | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.0/XT1563_LUX_RETLA_DS_6.0_MPD24.65-18_CFC_V2.xml.zip)||
 |XT1563 | 6.0   |MPD24.65-18.1|Latin America  | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.0/XT1563_LUX_RETLA_DS_6.0_MPD24.65-18.1_CFC.xml.zip)||
 |||||||||
+|XT1563 | 6.0.1 |MPD24.107-52 |Canada         | 1 |Bell?   |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETCA-BELL_6.0.1_MPD24.107-52.xml.zip)||
 |XT1563 | 6.0.1 |MPD24.107-52 |Latin America  | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETLA_DS_6.0.1_MPD24.107-52.xml.zip)||
 |XT1563 | 6.0.1 |MPD24.107-52 |RETAIL?        | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETAIL_DS_6.0.1_MPD24.107-52.xml.zip)||
 
