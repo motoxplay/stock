@@ -40,6 +40,8 @@
 |XT1563 | 6.0.1 |MPD24.107-52 |México         | 1 |Iusacell|[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETLA-IUSMX_6.0.1_MPD24.107-52.xml.zip)||
 |XT1563 | 6.0.1 |MPD24.107-52 |RETAIL         | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETAIL_DS_6.0.1_MPD24.107-52.xml.zip)||
 |XT1563 | 6.0.1 |MPD24.107-56 |RETAIL         | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETLA_DS_6.0.1_MPD24.107-56.xml.zip)||
+|XT1563 | 6.0.1 |MPD24.107-52-5|RETAIL        | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETLA_DS_6.0.1_MPDS24.107-52-5.xml.zip)||
+|XT1563 | 6.0.1 |MPD24.107-56-6|RETAIL        | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETLA_DS_6.0.1_MPDS24.107-56-6.xml.zip)||
 
 # Stock OTA updates for the Moto X Play
 |Device |Old Version| Old Build number | New Version | New Build number |Region/Type|GitHub|
