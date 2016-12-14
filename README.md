@@ -40,11 +40,11 @@
 |XT1563 | 6.0.1 |MPD24.107-52 |Latin America  | 1 |Entel   |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETLA-ENTEL_6.0.1_MPD24.107-52-ENTCLLA.xml.zip)||
 |XT1563 | 6.0.1 |MPD24.107-52 |México         | 1 |Iusacell|[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETLA-IUSMX_6.0.1_MPD24.107-52.xml.zip)||
 |XT1563 | 6.0.1 |MPD24.107-52 |RETAIL         | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETAIL_DS_6.0.1_MPD24.107-52.xml.zip)||
-|XT1563 | 6.0.1 |MPD24.107-56 |RETAIL         | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETLA_DS_6.0.1_MPD24.107-56.xml.zip)||
+|XT1563 | 6.0.1 |MPD24.107-56 |Latin America  | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETLA_DS_6.0.1_MPD24.107-56.xml.zip)||
 |XT1563 | 6.0.1 |MPD24.107-52-3|Canada        | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETCA_6.0.1_MPD24.107-52-3.xml.zip)||
-|XT1563 | 6.0.1 |MPDS24.107-52-5|RETAIL       | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETLA_DS_6.0.1_MPDS24.107-52-5.xml.zip)||
+|XT1563 | 6.0.1 |MPDS24.107-52-5|Latin America| 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETLA_DS_6.0.1_MPDS24.107-52-5.xml.zip)||
 |XT1563 | 6.0.1 |MPDS24.107-52-5|Argentina    | 1 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETAR_6.0.1_MPDS24.107-52-5.xml.zip)||
-|XT1563 | 6.0.1 |MPDS24.107-56-6|RETAIL       | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETLA_DS_6.0.1_MPDS24.107-56-6.xml.zip)||
+|XT1563 | 6.0.1 |MPDS24.107-56-6|Latin America| 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETLA_DS_6.0.1_MPDS24.107-56-6.xml.zip)||
 
 # Stock OTA updates for the Moto X Play
 |Device |Old Version| Old Build number | New Version | New Build number |Region/Type|GitHub|
@@ -57,7 +57,7 @@
 |XT1562 | 6.0       |MPD24.65-33       | 6.0.1       | MPD24.107-52     |RETEU      |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/file_delta-ota-Blur_Version.24.41.33.lux_reteu.reteu.en.EU.zip)|
 |XT1562 | 6.0.1     |MPD24.107-52      | 6.0.1       | MPD24S.107-52-5  |RETASIA    |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/file_delta-ota-Blur_Version.MPD24.107-52-MPDS24.107-52-5.lux_retasia_ds.retasiaall.en.03.zip.zip)|
 ||||||||
-|XT1563 | 6.0       |MPD24.65-18.1     | 6.0.1       | MPD24.107-52     |RETAIL?    |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/file_delta-ota-Blur_Version.24.61.52.lux_retla_ds.retla.en.01.zip)|
+|XT1563 | 6.0       |MPD24.65-18.1     | 6.0.1       | MPD24.107-52     |RETLA    |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/file_delta-ota-Blur_Version.24.61.52.lux_retla_ds.retla.en.01.zip)|
 |XT1563 | 6.0.1     |MPD24.107-56      | 6.0.1       | MPD24S.107-56-6  |RETACA     |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/file_delta-ota-Blur_Version.MPD24.107-56-MPDS24.107-56-6.lux_retca.retca.en.CA.zip)|
 
 
