@@ -63,3 +63,61 @@
 
 #TWRP for the Moto X Play
 Download from the [android_device_motorola_lux releases](https://github.com/motoxplay/android_device_motorola_lux/releases)
+
+#Install instructions:
+The following instructions may vary slightly depending on your device model/build.
+
+I'll assume you already have adb and the device drivers installed (you can easily find them for download).
+
+1. Extract the downloaded firmware to somewhere you can use adb.exe.
+
+2. Reboot the device into 'bootloader mode'. You can to this either from terminal or the hardware way.
+
+ a) The 'hardware' way:
+  * Unplug the USB cable and power off the phone.
+  * Press and hold 'Volume down' then power on the phone.
+  * Connect USB cable to your computer.
+   
+ b) The 'software' way:
+  * Enable developer mode on the device (Settings-> 'About Phone'. Tap 7 times on 'Build Number')
+  * Enable USB debugging. (Settings -> 'Developer options' -> 'USB Debugging' -> check)
+  * Connect phone to computer via USB, you should see a new ADB device detected and drivers installed.
+  * Open a Command Prompt and type `abd reboot bootloader`.
+
+3. Open a Command Prompt on the folder you extracted the firmware and enter the following code:
+
+ **Note**: 
+  * Do commands manually, one at a time - checking that each one returns an [OKAY].
+  * Do not simply copy and paste these commands! The `system.img_sparsechunks` files may differ in number and name. Always check contents of folder you're working with. You must flash all of the sparsechunk files you have.
+  * If you have a custom recovery and want to keep it, **DO NOT** flash `recovery.img`
+
+```
+fastboot oem fb_mode_set
+fastboot flash partition gpt.bin
+fastboot flash bootloader bootloader.img
+fastboot flash logo logo.bin
+fastboot flash boot boot.img
+fastboot flash recovery recovery.img
+fastboot flash system system.img_sparsechunk.0
+fastboot flash system system.img_sparsechunk.1
+fastboot flash system system.img_sparsechunk.2
+fastboot flash system system.img_sparsechunk.3
+fastboot flash system system.img_sparsechunk.4
+fastboot flash system system.img_sparsechunk.5
+fastboot flash system system.img_sparsechunk.6
+fastboot flash system system.img_sparsechunk.7
+fastboot flash system system.img_sparsechunk.8
+fastboot flash system system.img_sparsechunk.9
+fastboot flash modem NON-HLOS.bin
+fastboot erase modemst1 
+fastboot erase modemst2 
+fastboot flash fsg fsg.mbn
+fastboot erase cache 
+fastboot erase userdata
+fastboot erase customize
+fastboot erase clogo
+fastboot oem fb_mode_clear
+fastboot reboot
+
+```
+And you're all done! The first boot may take awhile, just wait and happy stock rom! :)
