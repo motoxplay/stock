@@ -1,6 +1,6 @@
 # Stock images for the Moto X Play
 
-##XT1562
+## XT1562
 |Device |Version|Build number |Region         |SIM|Carrier |GitHub|Torrent|
 |:-----:|:-----:|:-----------:|:-------------:|:-:|:------:|:----:|:-----:|
 |XT1562 | 5.1.1 |LPD23.118-10 |Europe         | 1 |        |[Download](https://github.com/motoxplay/stock/releases/download/v5.1.1/X_Play_Europe_Retail_XT1562_LPD23.118-10_CFC.xml.zip)||
@@ -22,7 +22,7 @@
 |XT1562 | 6.0.1 |MPD24.107-70 |Asia           | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1562_LUX_RETASIA_DS_6.0.1_MPD24.107-70.xml.zip)||
 |XT1562 | 6.0.1 |MPD24.107-52-5|Asia          | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1562_LUX_RETASIA_DS_6.0.1_MPDS24.107-52-5.xml.zip)||
 
-##XT1563
+## XT1563
 |Device |Version|Build number |Region         |SIM|Carrier |GitHub|Torrent|
 |:-----:|:-----:|:-----------:|:-------------:|:-:|:------:|:----:|:-----:|
 |XT1563 | 5.1.1 |LPD23.118-10 |Canada         | ? |        |[Download](https://github.com/motoxplay/stock/releases/download/v5.1.1/XT1563_LUX_RETCA_5.1.1_LPD23.118-10_CFC.xml.zip)||
@@ -62,10 +62,10 @@
 |XT1563 | 6.0.1     |MPD24.107-56      | 6.0.1       | MPD24S.107-56-6  |RETACA     |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/file_delta-ota-Blur_Version.MPD24.107-56-MPDS24.107-56-6.lux_retca.retca.en.CA.zip)|
 
 
-#TWRP for the Moto X Play
+# TWRP for the Moto X Play
 Download from the [android_device_motorola_lux releases](https://github.com/motoxplay/android_device_motorola_lux/releases)
 
-#Install instructions:
+# Install instructions:
 The following instructions may vary slightly depending on your device model/build.
 
 I'll assume you already have adb and the device drivers installed (you can easily find them for download).
