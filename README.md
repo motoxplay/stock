@@ -62,6 +62,8 @@
 |XT1562 | 6.0.1     |MPD24.107-52      | 6.0.1       | MPD24S.107-52-5  |RETASIA    |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/file_delta-ota-Blur_Version.MPD24.107-52-MPDS24.107-52-5.lux_retasia_ds.retasiaall.en.03.zip.zip)|
 |XT1562 | 6.0.1     |MPDS24.107-52-5   | 6.0.1       | MPD24S.107-52-11 |RETASIA    |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/file_delta-ota-Blur_Version.24.201.5.lux_retasia_ds.retasiaall.en.03.zip)|
 | |||||||
+|XT1562 | 6.0.1     | MPD24S.107-52-11 | 7.1.1       | NPD26.49-24-1    |RETASIA    |[Download](https://github.com/motoxplay/stock/releases/download/v7.1.1/Blur_Version.24.201.5.lux_retasia_ds.retasiaall.en.03.zip)|
+| |||||||
 |XT1563 | 6.0       |MPD24.65-18.1     | 6.0.1       | MPD24.107-52     |RETLA    |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/file_delta-ota-Blur_Version.24.61.52.lux_retla_ds.retla.en.01.zip)|
 |XT1563 | 6.0.1     |MPD24.107-56      | 6.0.1       | MPD24S.107-56-6  |RETACA     |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/file_delta-ota-Blur_Version.MPD24.107-56-MPDS24.107-56-6.lux_retca.retca.en.CA.zip)|
 
