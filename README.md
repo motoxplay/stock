@@ -89,7 +89,7 @@ I'll assume you already have adb and the device drivers installed (you can easil
   * Enable developer mode on the device (Settings-> 'About Phone'. Tap 7 times on 'Build Number')
   * Enable USB debugging. (Settings -> 'Developer options' -> 'USB Debugging' -> check)
   * Connect phone to computer via USB, you should see a new ADB device detected and drivers installed.
-  * Open a Command Prompt and type `abd reboot bootloader`.
+  * Open a Command Prompt and type `adb reboot bootloader`.
 
 3. Open a Command Prompt on the folder you extracted the firmware and enter the following code:
 
