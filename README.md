@@ -48,7 +48,7 @@
 |XT1563 | 6.0.1 |MPDS24.107-52-5|Argentina    | 1 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETAR_6.0.1_MPDS24.107-52-5.xml.zip)||
 |XT1563 | 6.0.1 |MPDS24.107-56-6|Latin America| 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1563_LUX_RETLA_DS_6.0.1_MPDS24.107-56-6.xml.zip)||
 | ||||||||
-|XT1563 | 7.1.1 |NPD26.49-24-1|Latin America  | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v7.1.1/LUX_RETLA_DS_7.1.1_NPD26.48-24-1_cid12_subsidy-DEFAULT_CFC.xml.zip)||
+|XT1563 | 7.1.1 |NPD26.48-24-1|Latin America  | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v7.1.1/LUX_RETLA_DS_7.1.1_NPD26.48-24-1_cid12_subsidy-DEFAULT_CFC.xml.zip)||
 
 # Stock OTA updates for the Moto X Play
 |Device |Old Version| Old Build number | New Version | New Build number |Region/Type|GitHub|
