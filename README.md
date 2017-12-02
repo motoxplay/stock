@@ -23,6 +23,7 @@
 |XT1562 | 6.0.1 |MPD24.107-52-5|Asia          | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v6.0.1/XT1562_LUX_RETASIA_DS_6.0.1_MPDS24.107-52-5.xml.zip)||
 | ||||||||
 |XT1562 | 7.1.1 |NPD26.48-24-1|Asia           | 2 |        |[Download](https://github.com/motoxplay/stock/releases/download/v7.1.1/LUX_RETASIA_DS_7.1.1_NPD26.48-24-1_cid7_subsidy-DEFAULT_CFC.xml.zip)||
+|XT1562 | 7.1.1 |NPD26.48-24-1|Europe         | 1 |        |[Download](https://github.com/motoxplay/stock/releases/download/v7.1.1/LUX_RETEU_7.1.1_NPD26.48-24-1_cid7_subsidy-DEFAULT_CFC.xml.zip)||
 
 ## XT1563
 |Device |Version|Build number |Region         |SIM|Carrier |GitHub|Torrent|
